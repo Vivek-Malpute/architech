@@ -1,3 +1,8 @@
+# Overview of Project 
+
+- Used Styled-component for design
+- Used MUI for design 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
